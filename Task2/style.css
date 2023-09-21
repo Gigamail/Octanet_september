@@ -1,0 +1,45 @@
+#header{
+    width:fit-content ;
+    height: 20px;
+    position: static;
+    margin-left: 1300px;
+}
+a{
+    
+    padding-left:10px;
+}
+#but{
+    width: 80px;
+    font-size: 15px;
+}
+#content{
+    margin-top: 50px;
+    margin-left: 500px;
+    width:fit-content ;
+    height: auto;
+}
+h1{
+    margin-left: 180px;
+}
+p{
+    font-size: 30px;
+}
+ol{
+    font-weight: 500;
+    font-size: 25px;   
+}
+#content2{
+    margin-top: 50px;
+}
+#boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+#forms{
+    width: 200px;
+    height: 100%;
+   border-color:solid grey;
+   border-radius: 10px;
+   margin-left: 500px;
+   margin-top: 50px;
+}
